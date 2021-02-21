@@ -4,11 +4,11 @@ Let's just talk a moment about a test. I'll try to put in some pictures and get 
 ## Second Title
 We'll try inserting an image here and see how it goes
 
-![First image](https://github.com/betocool-prog/test-repo/raw/master/images/IMG20200901105053.jpg "Test image #1"){width=[800]}
+![First image](./images/IMG20200901105053.jpg "Test image #1"){width=[800]}
 
 Ctrl+Shift+i: Insert an image
 
-![Test Image](https://github.com/betocool-prog/test-repo/raw/master/images/IMG20200901120312.jpg "Test image 2"){width=[800]}
+![Test Image](./images/IMG20200901120312.jpg "Test image 2"){width=[800]}
 
 And so forth
 
